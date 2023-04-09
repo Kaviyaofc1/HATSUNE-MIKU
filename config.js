@@ -4,14 +4,17 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 
 global.owner = [
-  ['5212411719888', '𝙾𝙵𝙲 𝚈𝙾𝚅𝙰𝙽𝙸', true],
-  ['5212412377467', '𝙾𝙵𝙲 𝚈𝙾𝚅𝙰𝙽𝙸', true],
-  ['5212412377467', '𝙾𝙵𝙲 𝚈𝙾𝚅𝙰𝙽𝙸', true],
+  ['94775418384', 'ᴋᴀᴠɪʏᴀ ᴏꜰᴄ', true],
+  ['94775418384', 'ᴋᴀᴠɪʏᴀ ᴏꜰᴄ', true],
+  ['94775418384', 'ᴋᴀᴠɪʏᴀ ᴏꜰᴄ', true],
+  ['94775418384', 'ᴋᴀᴠɪʏᴀ ᴏꜰᴄ', true],
+  ['94775418384', 'ᴋᴀᴠɪʏᴀ ᴏꜰᴄ', true],
+  ['94775418384']
 ]
-global.suittag =['5212411719888']
-global.mods = []
-global.prems = ['5212411719888'], 
-global.prems = ['5212411719888'],
+global.suittag =['94775418384']
+global.mods = ['94775418384']
+global.prems = ['94775418384'], 
+global.prems = ['94775418384'],
 global.APIs = { 
 
   amel: 'https://melcanz.com',
@@ -42,7 +45,7 @@ global.APIs = {
   kanx: 'https://kannxapi.herokuapp.com/',
   dhnjing: 'https://dhnjing.xyz'
 },
-  
+ 
 global.APIKeys = { 
   'https://api-alc.herokuapp.com': 'ConfuMods',
   'https://api.reysekha.xyz': 'apirey',
@@ -62,21 +65,21 @@ global.APIKeys = {
   'https://anabotofc.herokuapp.com/': 'AnaBot'
 }
 
-global.packname = '𝐇𝐀𝐓𝐒𝐔𝐍𝐄 𝐌𝐈𝐊𝐔-𝐁𝐎𝐓'
-global.author = '©ᴏғᴄ-ʏᴏᴠᴀɴɪ﹏✍'
+global.packname = '⫷᭄ᴋᴀᴠɪʏᴀ-ʙᴏᴛ-ᴍᴅ﹏✍'
+global.author = '©ᴏғᴄ-ᴋᴀᴠɪʏᴀ﹏✍'
 global.vs = '1.10.90'
 global.version = vs
-global.gt = '⫷᭄𝐇𝐀𝐓𝐒𝐔𝐍𝐄 𝐌𝐈𝐊𝐔-𝐁𝐎𝐓﹏✍'
+global.gt = '⫷᭄ᴋᴀᴠɪʏᴀ-ʙᴏᴛ-ᴍᴅ﹏✍'
 global.hadesbot = gt
 global.yt = 'https://youtu.be/aPu9wQi-z8U'
 global.youtube = yt
 global.ig = 'https://www.instagram'
 global.hadesig = ig
-global.md = 'https://github.com/HATSUNE-MIKU.git'
+global.md = 'https://github.com/kaviyaofc1/HADES-BOT-MD.git'
 global.botxdf = md
-global.nn = 'https://chat.whatsapp.com/CG5ZPcJ22fL7QjNRzjguD0'
+global.nn = 'https://chat.whatsapp.com/HW0irZWSplaE5vUWpQeRAI'
 global.nngrupo = nn
-global.nnn = 'https://chat.whatsapp.com/DDm7HC6e5MF9qcdLqB22RQ'
+global.nnn = 'https://chat.whatsapp.com/HW0irZWSplaE5vUWpQeRAI'
 global.nnngrupo = nnn
 global.paypal = 'https://pay'
 global.donar = paypal
@@ -95,9 +98,9 @@ global.envio = eeg
 global.eg = '*🍀ʀᴇsᴜʟᴛᴀᴅᴏ ᴇɴᴄᴏɴᴛʀᴀᴅᴏ✨*'
 global.exito = eg
 
-global.wm = '©ᴏғᴄ-ʏᴏᴠᴀɴɪ﹏✍\n⫷᭄𝐇𝐀𝐓𝐒𝐔𝐍𝐄 𝐌𝐈𝐊𝐔-𝐁𝐎𝐓﹏✍'
-global.igfg = '⫷᭄𝐇𝐀𝐓𝐒𝐔𝐍𝐄 𝐌𝐈𝐊𝐔-𝐁𝐎𝐓﹏✍'
-global.wait = '⌛ _Cargando..._\n▰▰▰▱▱▱▱▱▱'
+global.wm = '©ᴏғᴄ-ᴋᴀᴠɪʏᴀ﹏✍\n⫷᭄ᴋᴀᴠɪʏᴀ-ʙᴏᴛ-ᴍᴅ﹏✍\n'
+global.igfg = '⫷᭄ᴋᴀᴠɪʏᴀ-ʙᴏᴛ-ᴍᴅ﹏✍'
+global.wait = '⌛_Cargando..._\n▰▰▰▱▱▱▱▱▱'
 
 global.imagen1 = fs.readFileSync('./src/Menu2.jpg')
 global.imagen4 = fs.readFileSync('./src/Menuxx.jpg')
@@ -129,4 +132,3 @@ watchFile(file, () => {
   console.log(chalk.redBright("Update 'config.js'"))
   import(`${file}?update=${Date.now()}`)
 })
- 
