@@ -4,11 +4,11 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 
 global.owner = [
-  ['94775418384', 'ᴋᴀᴠɪʏᴀ ᴏꜰᴄ', true],
-  ['94775418384', 'ᴋᴀᴠɪʏᴀ ᴏꜰᴄ', true],
-  ['94775418384', 'ᴋᴀᴠɪʏᴀ ᴏꜰᴄ', true],
-  ['94775418384', 'ᴋᴀᴠɪʏᴀ ᴏꜰᴄ', true],
-  ['94775418384', 'ᴋᴀᴠɪʏᴀ ᴏꜰᴄ', true],
+  ['94775418384', '⬘⬔⬖ 𝓚𝓐𝓥𝓘𝓨𝓐-𝓞𝓕𝓒 ⬗⬕⬙', true],
+  ['94775418384', '⬘⬔⬖ 𝓚𝓐𝓥𝓘𝓨𝓐-𝓞𝓕𝓒 ⬗⬕⬙', true],
+  ['94775418384', '⬘⬔⬖ 𝓚𝓐𝓥𝓘𝓨𝓐-𝓞𝓕𝓒 ⬗⬕⬙', true],
+  ['94775418384', '⬘⬔⬖ 𝓚𝓐𝓥𝓘𝓨𝓐-𝓞𝓕𝓒 ⬗⬕⬙', true],
+  ['94775418384', '⬘⬔⬖ 𝓚𝓐𝓥𝓘𝓨𝓐-𝓞𝓕𝓒 ⬗⬕⬙', true],
   ['94775418384']
 ]
 global.suittag =['94775418384']
@@ -65,17 +65,17 @@ global.APIKeys = {
   'https://anabotofc.herokuapp.com/': 'AnaBot'
 }
 
-global.packname = '⫷᭄ᴋᴀᴠɪʏᴀ-ʙᴏᴛ-ᴍᴅ﹏✍'
-global.author = '©ᴏғᴄ-ᴋᴀᴠɪʏᴀ﹏✍'
+global.packname = '✿༺ 𝒦𝒜𝒱𝐼𝒴𝒜 𝒪𝐹𝒞 𝐵𝒪𝒯 ༻✿'
+global.author = '⬘⬔⬖ 𝓚𝓐𝓥𝓘𝓨𝓐-𝓞𝓕𝓒 ⬗⬕⬙'
 global.vs = '1.10.90'
 global.version = vs
-global.gt = '⫷᭄ᴋᴀᴠɪʏᴀ-ʙᴏᴛ-ᴍᴅ﹏✍'
+global.gt = '✿༺ 𝒦𝒜𝒱𝐼𝒴𝒜 𝒪𝐹𝒞 𝐵𝒪𝒯 ༻✿'
 global.hadesbot = gt
 global.yt = 'https://youtu.be/aPu9wQi-z8U'
 global.youtube = yt
 global.ig = 'https://www.instagram'
 global.hadesig = ig
-global.md = 'https://github.com/kaviyaofc1/HADES-BOT-MD.git'
+global.md = 'https://github.com/kaviyaofc1.git'
 global.botxdf = md
 global.nn = 'https://chat.whatsapp.com/HW0irZWSplaE5vUWpQeRAI'
 global.nngrupo = nn
@@ -98,9 +98,9 @@ global.envio = eeg
 global.eg = '*🍀ʀᴇsᴜʟᴛᴀᴅᴏ ᴇɴᴄᴏɴᴛʀᴀᴅᴏ✨*'
 global.exito = eg
 
-global.wm = '©ᴏғᴄ-ᴋᴀᴠɪʏᴀ﹏✍\n⫷᭄ᴋᴀᴠɪʏᴀ-ʙᴏᴛ-ᴍᴅ﹏✍\n'
-global.igfg = '⫷᭄ᴋᴀᴠɪʏᴀ-ʙᴏᴛ-ᴍᴅ﹏✍'
-global.wait = '⌛_Cargando..._\n▰▰▰▱▱▱▱▱▱'
+global.wm = '©ᴏғᴄ-ᴋᴀᴠɪʏᴀ﹏✍\n⫷✿༺ 𝒦𝒜𝒱𝐼𝒴𝒜 𝒪𝐹𝒞 𝐵𝒪𝒯 ༻✿\n'
+global.igfg = '✿༺ 𝒦𝒜𝒱𝐼𝒴𝒜 𝒪𝐹𝒞 𝐵𝒪𝒯 ༻✿'
+global.wait = '⌛_✿༺ 𝐿𝒪𝒜𝒟𝐼𝒩𝒢 ༻✿..._\n▰▰▰▱▱▱▱▱▱'
 
 global.imagen1 = fs.readFileSync('./src/Menu2.jpg')
 global.imagen4 = fs.readFileSync('./src/Menuxx.jpg')
