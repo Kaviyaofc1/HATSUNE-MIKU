@@ -102,10 +102,10 @@ global.wm = '©ᴏғᴄ-ᴋᴀᴠɪʏᴀ﹏✍\n⫷✿༺ 𝒦𝒜𝒱𝐼𝒴�
 global.igfg = '✿༺ 𝒦𝒜𝒱𝐼𝒴𝒜 𝒪𝐹𝒞 𝐵𝒪𝒯 ༻✿'
 global.wait = '⌛_✿༺ 𝐿𝒪𝒜𝒟𝐼𝒩𝒢 ༻✿..._\n▰▰▰▱▱▱▱▱▱'
 
-global.imagen1 = fs.readFileSync('./src/Menu2.jpg')
+global.imagen1 = fs.readFileSync('./src/Menuxx.jpg')
 global.imagen4 = fs.readFileSync('./src/Menuxx.jpg')
-global.imagen2 = fs.readFileSync('./src/nuevobot.jpg') 
-global.imagen3 = fs.readFileSync('./src/Me.jpg')
+global.imagen2 = fs.readFileSync('./src/Menuxx.jpg') 
+global.imagen3 = fs.readFileSync('./src/Menuxx.jpg')
 
 global.mods = [] 
 
